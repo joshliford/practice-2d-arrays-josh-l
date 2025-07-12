@@ -40,6 +40,6 @@ let theaterSeating = [
 
 // Task 3:
 let contactsList = [
-    ["Name", "Email", "Phone"],
-    ["Name", "Email", "Phone"]
+    ["Dan Smith", "DSmith@gmail.com", "636-299-0098"],
+    ["Madeline Parker", "Mads_P@yahoo.com", "573-888-2154"]
 ];
