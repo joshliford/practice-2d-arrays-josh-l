@@ -30,6 +30,7 @@ let allScores = [
     [96, 88, 89],
     [91, 94, 89]
 ];
+console.log("Student scores:", allScores);
 
 // Task 2:
 let theaterSeating = [
@@ -37,9 +38,11 @@ let theaterSeating = [
     ["B1", "B2", "B3", "B4"],
     ["C1", "C2", "C3", "C4"]
 ];
+console.log("Theater Seating:", theaterSeating);
 
 // Task 3:
 let contactsList = [
     ["Dan Smith", "DSmith@gmail.com", "636-299-0098"],
     ["Madeline Parker", "Mads_P@yahoo.com", "573-888-2154"]
 ];
+console.log("Contacts List:", contactsList);
